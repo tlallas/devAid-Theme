@@ -105,7 +105,7 @@ pre code {
 }
 
 .header.navbar-fixed-top {
-  background: #FF7931;
+  background: #FFF2DC;
   z-index: 9999;
   -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
@@ -113,7 +113,7 @@ pre code {
 }
 
 .header.navbar-fixed-top .logo a {
-  color: #FFF2DC;
+  color: #FF7931;
 }
 
 .header .logo {
@@ -191,12 +191,12 @@ pre code {
 }
 
 .header .main-nav .nav .nav-item .nav-link.active {
-  color: #761E0B;
+  color: #FF7931;
   background: none;
 }
 
 .header .main-nav .nav .nav-item .nav-link:hover {
-  color: #761E0B;
+  color: #FF7931;
   background: none;
 }
 
