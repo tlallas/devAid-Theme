@@ -18,7 +18,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #17baef;
+  color: #761E0B;
 }
 
 a {
@@ -98,14 +98,14 @@ pre code {
 /* ======= Header ======= */
 .header {
   padding: 10px 0;
-  background: #17baef;
+  background: #FFF2DC;
   color: #fff;
   position: fixed;
   width: 100%;
 }
 
 .header.navbar-fixed-top {
-  background: #fff;
+  background: #FF7931;
   z-index: 9999;
   -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
@@ -113,7 +113,7 @@ pre code {
 }
 
 .header.navbar-fixed-top .logo a {
-  color: #17baef;
+  color: #FFF2DC;
 }
 
 .header .logo {
@@ -123,7 +123,7 @@ pre code {
 }
 
 .header .logo a {
-  color: #fff;
+  color: #FF7931;
 }
 
 .header .logo a:hover {
@@ -181,7 +181,7 @@ pre code {
 }
 
 .header .main-nav .nav .nav-item .nav-link {
-  color: #09617e;
+  color: #0F1828;
   -webkit-transition: none;
   -moz-transition: none;
   -ms-transition: none;
@@ -191,12 +191,12 @@ pre code {
 }
 
 .header .main-nav .nav .nav-item .nav-link.active {
-  color: #17baef;
+  color: #0F1828;
   background: none;
 }
 
 .header .main-nav .nav .nav-item .nav-link:hover {
-  color: #074f66;
+  color: #761E0B;
   background: none;
 }
 
@@ -216,26 +216,27 @@ pre code {
 
 /* ======= Promo Section ======= */
 .promo {
-  background: #17baef;
+  background: #FFF2DC;
   color: #fff;
   padding-top: 150px;
 }
 
 .promo .title {
-  font-size: 98px;
-  color: #074f66;
+  font-size: 48px;
+  color: #0F1828;
   margin-top: 0;
 }
 
 .promo .title .highlight {
-  color: #eebf3f;
+  color: #FF7931;
 }
 
 .promo .intro {
-  font-size: 28px;
+  font-size: 20px;
   max-width: 680px;
-  margin: 0 auto;
   margin-bottom: 30px;
+  color: #0F1828;
+  padding-bottom: 5%;
 }
 
 .promo .btns .btn {
