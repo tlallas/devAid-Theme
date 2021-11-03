@@ -224,6 +224,7 @@ pre code {
 .promo .promo-container {
   display: flex;
   flex-direction: row;
+  padding-bottom: 5%;
 }
 
 .promo .dog-image {
