@@ -191,7 +191,7 @@ pre code {
 }
 
 .header .main-nav .nav .nav-item .nav-link.active {
-  color: #0F1828;
+  color: #761E0B;
   background: none;
 }
 
@@ -219,6 +219,16 @@ pre code {
   background: #FFF2DC;
   color: #fff;
   padding-top: 150px;
+}
+
+.promo .promo-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.promo .dog-image {
+  max-width: 30%;
+  height: auto;
 }
 
 .promo .title {
